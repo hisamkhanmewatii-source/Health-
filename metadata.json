@@ -1,0 +1,6 @@
+{
+  "name": "Mohammed Hisam health",
+  "description": "Smart food expiration tracker to prevent food rot with phone alerts, healthy portion suggestions, pantry-based recipes, and medication memorization manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
